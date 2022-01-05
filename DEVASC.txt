@@ -1,1 +1,5 @@
-Initial text to the file
+Initial text to the filetotal 8
+drwxr-xr-x@  4 toddplambeck  staff  128 Jan  4 20:56 .
+drwxr-xr-x@  8 toddplambeck  staff  256 Jan  4 21:40 ..
+drwxr-xr-x@ 12 toddplambeck  staff  384 Jan  4 21:42 .git
+-rw-r--r--   1 toddplambeck  staff   24 Jan  4 20:56 DEVASC.txt
